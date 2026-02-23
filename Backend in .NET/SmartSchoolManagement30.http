@@ -1,0 +1,6 @@
+@SmartSchoolManagement30_HostAddress = http://localhost:5287
+
+GET {{SmartSchoolManagement30_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
